@@ -22,11 +22,11 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_5"], url=f"https://t.me/{app.username}?startgroup=true"
+                text=_["S_B_5"], url=f"https://t.me/PROMOTION_UPDATE"
             ),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text=_["S_B_6"], url=config.OWNER_ID),
         ],
     ]
     return buttons
