@@ -26,7 +26,7 @@ def private_panel(_):
             ),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_6"], url=config.OWNER_ID),
+            InlineKeyboardButton(text=_["❍ 𝐎꯭ᴡ꯭ɴᴇ꯭ʀ ❍"], url=f"https://t.me/ll_SARKAR_OWNER_ll"),
         ],
     ]
     return buttons
