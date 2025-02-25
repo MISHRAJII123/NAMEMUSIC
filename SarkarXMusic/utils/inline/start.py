@@ -27,6 +27,10 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text="❍ 𝐎꯭ᴡ꯭ɴᴇ꯭ʀ ❍", url=f"https://t.me/ll_SARKAR_OWNER_ll"),
+        ),
+        ],
+        [
+            InlineKeyboardButton(text="❍ 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 ❍", url=f"https://t.me/SARKAR_UPDATE/74"),
         ],
     ]
     return buttons
