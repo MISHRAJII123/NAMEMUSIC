@@ -22,7 +22,7 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_5"], url=f"https://t.me/PROMOTION_UPDATE"
+                text=_["S_B_5"], url=f"https://t.me/ll_STYLISH_NAME_BOT"
             ),
         ],
         [
